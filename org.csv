@@ -1,4 +1,4 @@
-name,imageUrl,area,office,tags,positionName,id,parentId,size
+name,imageUrl,area,office,tags,positionName,id,parentId,
 Союнов Нурсеит,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,CTO office,"Ceo,tag1,manager,cto",General Director,O-6066,,
 Davolio Nancy,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,CEO office,"Ceo,tag1, tag2",CTO ,O-6067,O-6066,
 Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,CEO office,"Ceo,tag1, tag2",CTO ,O-6068,O-6066,
