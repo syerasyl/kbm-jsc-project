@@ -2,6 +2,10 @@
     {
         "name":"Союнов Нурсеит Джомартович",
         "positionName":"Генеральный директор",
-        "imageUrl":"https://raw.githubusercontent.com/syerasyl/kbm-jsc-project/main/dep-ceo.jpg"
+        "office":616,
+        "phoneNum":3310,
+        "cellPhoneNum":"8 771 545 25 23",
+        "email":"F_Turakbayev@KBM.KZ"
+        "imageUrl":"https://rb.gy/yadsu"
     }
 ]
