@@ -23,7 +23,7 @@
         "actor":"Daniel Radcliffe",
         "alternate_actors":[],
         "alive":true,
-        "image":"https://ik.imagekit.io/hpapi/harry.jpg"
+        "image":"https://raw.githubusercontent.com/syerasyl/kbm-jsc-project/main/dep-ceo.jpg"
     },
     {
         "id":"4c7e6819-a91a-45b2-a454-f931e4a7cce3",
@@ -49,7 +49,7 @@
         "actor":"Emma Watson",
         "alternate_actors":[],
         "alive":true,
-        "image":"https://ik.imagekit.io/hpapi/hermione.jpeg"
+        "image":"https://raw.githubusercontent.com/syerasyl/kbm-jsc-project/main/dep-ceo.jpg"
     },
     {
         "id":"c3b1f9a5-b87b-48bf-b00d-95b093ea6390",
@@ -75,7 +75,7 @@
         "actor":"Rupert Grint",
         "alternate_actors":[],
         "alive":true,
-        "image":"https://ik.imagekit.io/hpapi/ron.jpg"
+        "image":"https://raw.githubusercontent.com/syerasyl/kbm-jsc-project/main/dep-ceo.jpg"
     },
     {
         "id":"af95bd8a-dfae-45bb-bc69-533860d34129",
@@ -101,6 +101,6 @@
         "actor":"Tom Felton",
         "alternate_actors":[],
         "alive":true,
-        "image":"https://ik.imagekit.io/hpapi/draco.jpg"
+        "image":"https://raw.githubusercontent.com/syerasyl/kbm-jsc-project/main/dep-ceo.jpg"
     }
 ]
