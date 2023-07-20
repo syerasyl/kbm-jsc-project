@@ -1,5 +1,5 @@
 [
-    {"id":1,"name":"Оспанов Еркебулан Кошбаевич","positionName":"И.о. заместителя генерального директора по производству","imageUrl":"https://rb.gy/ld44p","office":801,"phoneNum":3373,"cellPhoneNum":"8 771 008 00 45","email":"S_Aidarov@KBM.KZ"},
+    {"id":1,"parentId":,"name":"Оспанов Еркебулан Кошбаевич","positionName":"И.о. заместителя генерального директора по производству","imageUrl":"https://rb.gy/ld44p","office":801,"phoneNum":3373,"cellPhoneNum":"8 771 008 00 45","email":"S_Aidarov@KBM.KZ"},
     {"id":2,"parentId":1,"name":"Исламгазиев Жомарт Кикбаевич","positionName":"Заместитель генерального директора по экономике и финансам","imageUrl":"https://rb.gy/benut","office":801,"phoneNum":3340,"cellPhoneNum":"8 771 008 50 20","email":"X_Fan@KBM.KZ"},
     {"id":3,"parentId":1,"name":"Есибаева Гульжан Владимировна","positionName":"Заместитель генерального директора по кадровым и социальным вопросам","imageUrl":"https://rb.gy/yadsu","office":414,"phoneNum":3379,"cellPhoneNum":"8 771 008 00 48","email":"A_Baishim@KBM.KZ"},
     {"id":4,"parentId":1,"name":"Уркимбаев Саламат Шадиярович","positionName":"Заместитель генерального директора по геологии и разработки","imageUrl":"https://rb.gy/4ug7d","office":512,"phoneNum":3329,"cellPhoneNum":"8 771 008 03 33","email":"D_Darmukhanov@kbm.kz"},
