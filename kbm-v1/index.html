@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Каражанбасмунай</title>
+        <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+        <link rel="stylesheet" href="app.css" />
+    </head>
+    <style>
+        body {
+            font-family: 'Open Sans';
+        }
+    </style>
+    <body>
+        <div class="sidenav">
+            <div id="buttons">
+                <ul >
+                    <li><a  onclick="showAll()"><b>ВСЕ СОТРУДНИКИ</b></a></li>
+                    <li><a  onclick="blokFilter('Аппарат Правления')"><b>АППАРАТ ПРАВЛЕНИЯ</b></a></li>
+                    <li><a  onclick="blokFilter('БЛОК АППАРАТА ПРАВЛЕНИЯ')"><b>БЛОК АППАРАТА ПРАВЛЕНИЯ</b></a></li>
+                    <li><a  onclick="blokFilter('ПРОИЗВОДСТВЕННЫЙ БЛОК')"><b>ПРОИЗВОДСТВЕННЫЙ БЛОК</b></a></li>
+                    <li><a  onclick="blokFilter('ФИНАНСОВЫЙ БЛОК')"><b>ФИНАНСОВЫЙ </b></a></li>
+                    <li><a  onclick="blokFilter('КАДРОВО-СОЦИАЛЬНЫЙ БЛОК')"><b>КАДРОВО-СОЦИАЛЬНЫЙ БЛОК</b></a></li>
+                    <li><a  onclick="blokFilter('КОММЕРЧЕСКИЙ БЛОК')"><b>КОММЕРЧЕСКИЙ БЛОК</b></a></li>
+                    <li><a  onclick="blokFilter('ПРОЧЕЕ')"><b>ПРОЧЕЕ</b></a></li>
+                </ul>
+
+                <div class="footer">
+                    <img src="logo_kbm.png" alt="KBM Logo">
+                    <p><strong>АО "Каражанбасмунай"</strong></p>
+                    <p1>© 2023. Қаражанбасмұнай. All rights reserved</p1>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container-1">
+            <div class="navbar">
+                <input
+                    type="text"
+                    name="searchBar"
+                    id="searchBar"
+                    placeholder=" Найти сотрудника АО Каражанбасмунай "
+                />
+            </div>  
+        </div>
+
+        <div class="container">
+            <ul id="charactersList"></ul>
+        </div>
+
+        <script src="app.js"></script>
+    </body>
+</html>
